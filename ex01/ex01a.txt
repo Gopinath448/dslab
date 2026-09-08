@@ -1,4 +1,4 @@
-ds-lab@ds-lab-System-Product-Name:~/dslab 421125106025/ex01$ ./a.out
+ds-lab@ds-lab-System-Product-Name:~/dslab 421125106028/ex01$ ./a.out
 
 Array operation Menu:
 1. Create Array
