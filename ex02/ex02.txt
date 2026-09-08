@@ -1,5 +1,5 @@
-ds-lab@ds-lab-System-Product-Name:~/dslab 421125106025/ex02$ gcc ex02.c
-ds-lab@ds-lab-System-Product-Name:~/dslab 421125106025/ex02$ ./a.out
+ds-lab@ds-lab-System-Product-Name:~/dslab 421125106028/ex02$ gcc ex02.c
+ds-lab@ds-lab-System-Product-Name:~/dslab 421125106028/ex02$ ./a.out
 
 1. Insert at End
 2. Delete Node
